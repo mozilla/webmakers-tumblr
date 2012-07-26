@@ -1,7 +1,7 @@
 webmakers-tumblr
 ================
 
-This is the repo for the template for mozillawebmakers.tumblr.com.
+This is the repo for the template for mozillawebmaker.tumblr.com.
 
 Edits made to this template need to be pasted into the "custom HTML" editor in Tumblr itself to take effect.
 
